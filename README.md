@@ -1,4 +1,4 @@
-# BCS_Classwork_PythonChallenge
+# PythonChallenge
 
 # Python Homework - Py Me Up, Charlie
 
